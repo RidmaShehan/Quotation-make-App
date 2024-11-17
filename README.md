@@ -71,6 +71,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Contact 📬
 
 For queries or collaboration, feel free to reach out at:
-- **Email:** your-email@example.com
-- **GitHub:** [your-username](https://github.com/your-username)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- ** Email: ** k.l.ridmashehan@gmail.com
+- ** GitHub: ** [RidmaShehan](https://github.com/RidmaShehan)
